@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    username: "senthil"
+    password: "kumar@2024"
+  application:
+    name: Department123
